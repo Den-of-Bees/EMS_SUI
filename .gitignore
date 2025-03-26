@@ -1,2 +1,5 @@
 build/*
-frontend/node_modules
+front_end/node_modules
+*-lock*
+*tmp*
+*.env
